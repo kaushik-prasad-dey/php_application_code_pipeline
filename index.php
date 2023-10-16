@@ -1,8 +1,11 @@
 <?php
-require 'vendor/autoload.php';
-
-use Carbon\Carbon;
- 
-$date = Carbon::now();
-
-echo "Current Date and Time: ".$date->toDayDateTimeString();
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>::Low cost Website Design, Web Development and seo::</title>
+</head>
+<body>
+echo '<h1>This is Sample</h>';
+echo '<h2> changes in code...</h2>';
+</body>
+?>
