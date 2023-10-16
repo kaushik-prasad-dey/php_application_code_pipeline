@@ -5,7 +5,7 @@
 </head>
 <body>
 <?php
-$titleTag ='Welcome to Cloud Environment with automate code pipeline';
+$titleTag ='Welcome to Cloud Environment with automate code pipeline new code added';
 echo $titleTag;
 ?>
 </body>
