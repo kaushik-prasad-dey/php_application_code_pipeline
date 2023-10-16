@@ -1,11 +1,12 @@
-<?php
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
 <head>
-<title>::Low cost Website Design, Web Development and seo::</title>
+<title>::Code pipeline demo::</title>
 </head>
 <body>
-echo '<h1>This is hello bbbb new</h>';
-echo '<h2> changes in code...</h2>';
-</body>
+<?php
+$titleTag ='Welcome to Cloud Environment';
+echo $titleTag;
 ?>
+</body>
+</html>
